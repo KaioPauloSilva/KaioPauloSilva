@@ -19,7 +19,7 @@ I am currently improving my skills in **Python**, **Data Analysis**, **Linux** a
   <img align="center" alt="MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-## Tools 💻
+## Tools
 
 <div>
   <img align="center" alt="VSCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
@@ -48,10 +48,3 @@ I am currently improving my skills in **Python**, **Data Analysis**, **Linux** a
 </div>
  
  <br>
- 
-
-<div> 
-   
-  ![Snake animation](https://github.com/KaioPauloSilva/KaioPauloSilva/blob/output/github-contribution-grid-snake.svg)
-
-</div>
