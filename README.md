@@ -29,13 +29,6 @@ I am currently improving my skills in **Python**, **Data Analysis**, **Linux** a
   <img align="center" alt="ANACONDA" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
 </div>
 
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-<body>
-  <i class="devicon-github-original-wordmark"></i>
-</body>
-
 <div>
   <div style="display: inline_block"><br>
   <a href="https://github.com/KaioPauloSilva">
