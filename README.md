@@ -16,7 +16,7 @@ I am currently improving my skills in **Python**, **Data Analysis**, **Linux** a
 
 <div>
   <img align="center" alt="PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ 
 </div>
 
 ## Tools
@@ -27,6 +27,8 @@ I am currently improving my skills in **Python**, **Data Analysis**, **Linux** a
   <img align="center" alt="GIT" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="JUPYTER" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="ANACONDA" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
+  <img align="center" alt="ANACONDA" height="80" width="90" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>
+  <img align="center" alt="ANACONDA" height="80" width="90" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg>
 </div>
 
 <div>
