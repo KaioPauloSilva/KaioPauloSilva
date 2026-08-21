@@ -45,15 +45,6 @@ Sou **Analista de Dados Pleno no Itaú Unibanco**, atuando na área de *Analytic
 
 ---
 
-### 🎵 Fora do Código (Hobbies & Interesses)
-Quando não estou escrevendo queries SQL ou construindo pipelines de dados, você provavelmente vai me encontrar:
-* 🎾 Praticando **Tênis** no saibro.
-* 🎧 Descobrindo novos álbuns e expandindo minha coleção de **discos de vinil** (Rap, Hip-Hop, R&B, Funk e Pop).
-* 👟 Acompanhando o cenário de **moda streetwear e cultura sneaker**.
-* 🎮 Jogando no PC (**GTA RP / FiveM**, **Roblox**) para descontrair.
-
----
-
 ### 📫 Conecte-se Comigo
 
 <div align="center">
