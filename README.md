@@ -1,45 +1,66 @@
-## Hello! I am Kaio! 👋
+# 👋 Olá, eu sou o Kaio Paulo!
 
-### Data Scientist / Data Analyst
-
-Data Student.  
-I am currently improving my skills in **Python**, **Data Analysis**, **Linux** and **Cloud Computing**
-
-<div>
-
-  <a href="https://www.linkedin.com/in/kaio-paulo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:kaio.paulo50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-  
-## Technologies
-
-<div>
-  <img align="center" alt="PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
- 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaiopaulo&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Buscando%20Evolução%20Constante-blue?style=flat&logo=adafruit" alt="Status" />
 </div>
 
-## Tools
+---
 
-<div>
-  <img align="center" alt="VSCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="GITHUB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="GIT" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="JUPYTER" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="ANACONDA" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
-  <img align="center" alt="ANACONDA" height="80" width="90" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>
-  <img align="center" alt="ANACONDA" height="80" width="90" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg>
+### 💻 Sobre Mim
+Sou **Analista de Dados Pleno no Itaú Unibanco**, atuando na área de *Analytics de Investimentos* e Ciência de Dados. Sou apaixonado por transformar dados complexos em insights estratégicos, construir bases analíticas robustas e otimizar processos de tomada de decisão. 
+
+* 🏢 **Trabalho atual:** Analista de Dados Pleno no **Itaú Unibanco** (Reconhecido pelo *Programa de Alto Desempenho - PRAD*).
+* 🎓 **Formação:** Tecnólogo em TI pela *Descomplica Faculdade Digital* e Formação em Ciência de Dados pela *EBAC*.
+* 🎯 **Objetivo de Longo Prazo:** Consolidar a carreira em Ciência de Dados e Engenharia Analítica, unindo uma forte base matemática com a prática corporativa de grande escala.
+* 📍 **Base:** Jundiaí, São Paulo, Brasil.
+
+---
+
+### 🛠️ Stack Tecnológica & Habilidades
+
+<div align="center">
+
+| Categoria | Tecnologias / Ferramentas |
+| :--- | :--- |
+| **Linguagens & Dados** | `Python` (Pandas, Numpy), `SQL` (Athena, Presto, Trino) |
+| **Cloud & Big Data** | `AWS` (S3, Glue, Athena), Arquitetura Data Lake / Data Mesh |
+| **Visualização & BI** | `Amazon QuickSight`, `Power BI`, Storytelling de Dados |
+| **Metodologias** | Modelagem de Dados, Análise Exploratória, Métricas de Engajamento (DAU/WAU/MAU) |
+
 </div>
 
-<div>
-  <div style="display: inline_block"><br>
-  <a href="https://github.com/KaioPauloSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioPauloSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioPauloSilva&layout=compact&langs_count=6&theme=tokyonight"/>   
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kaiopaulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopaulo&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
-  
-<div style="display: inline_block"><br>
-  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiopaulo&theme=radical" alt="GitHub Streak" />
 </div>
- 
- <br>
+
+---
+
+### 🎵 Fora do Código (Hobbies & Interesses)
+Quando não estou escrevendo queries SQL ou construindo pipelines de dados, você provavelmente vai me encontrar:
+* 🎾 Praticando **Tênis** no saibro.
+* 🎧 Descobrindo novos álbuns e expandindo minha coleção de **discos de vinil** (Rap, Hip-Hop, R&B, Funk e Pop).
+* 👟 Acompanhando o cenário de **moda streetwear e cultura sneaker**.
+* 🎮 Jogando no PC (**GTA RP / FiveM**, **Roblox**) para descontrair.
+
+---
+
+### 📫 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/kaio-paulo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:kaio.paulo50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</div>
