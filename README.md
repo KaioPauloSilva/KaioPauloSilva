@@ -32,19 +32,6 @@ Sou **Analista de Dados Pleno no Itaú Unibanco**, atuando na área de *Analytic
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kaiopaulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopaulo&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiopaulo&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Conecte-se Comigo
 
 <div align="center">
